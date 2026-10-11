@@ -8,7 +8,7 @@ Yauhen Kuzmich acts as the Data Controller responsible for the processing of you
 
 * **Name:** Yauhen Kuzmich
 * **Address:** Naujoji Riovonių g. 10, Vilnius, 03153, Lithuania
-* **Email:** indraminsk@gmail.com
+* **Email:** grupesode@gmail.com
 
 For data protection inquiries and to exercise your GDPR rights, please contact the Data Controller using the contact information above.
 
@@ -78,7 +78,7 @@ Where the GDPR applies, the Service Provider enters into Data Processing Agreeme
 
 You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
-To request deletion of your personal data, withdraw consent, or exercise any of your rights, contact the Service Provider at indraminsk@gmail.com.
+To request deletion of your personal data, withdraw consent, or exercise any of your rights, contact the Service Provider at grupesode@gmail.com.
 
 ## What is the data retention policy and how can you manage your information?
 
@@ -89,11 +89,11 @@ The Service Provider retains personal data based on its necessity for the stated
 * **Aggregated and Anonymized Data:** Retained indefinitely as it no longer identifies you
 * **Data required for legal compliance:** Retained as long as required by applicable law
 
-You have the right to request deletion of your personal data at any time, except where retention is required by law. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at indraminsk@gmail.com and they will respond within the time required by applicable law. Please note that some User Provided Data may be required in order for the Application to function properly.
+You have the right to request deletion of your personal data at any time, except where retention is required by law. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at grupesode@gmail.com and they will respond within the time required by applicable law. Please note that some User Provided Data may be required in order for the Application to function properly.
 
 ## Data Deletion
 
-You can request deletion of your personal data or account by contacting the Service Provider at indraminsk@gmail.com. The Service Provider will process your request within the timeframes required by applicable law.
+You can request deletion of your personal data or account by contacting the Service Provider at grupesode@gmail.com. The Service Provider will process your request within the timeframes required by applicable law.
 
 Upon verification of your identity, the Service Provider will delete your personal data from its systems, except where retention is required for legal compliance or legitimate business purposes.
 
@@ -101,7 +101,7 @@ Upon verification of your identity, the Service Provider will delete your person
 
 The Application is not intended for children under 18 years of age, or where a higher age of digital consent is established under applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 18 years of age, or where a higher age of digital consent is established by applicable law, in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (indraminsk@gmail.com) so that they will be able to take the necessary actions.
+Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 18 years of age, or where a higher age of digital consent is established by applicable law, in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (grupesode@gmail.com) so that they will be able to take the necessary actions.
 
 ## How is your information kept secure?
 
@@ -115,7 +115,7 @@ In the event of a personal data breach that poses a risk to your rights and free
 
 The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at indraminsk@gmail.com.
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at grupesode@gmail.com.
 
 This privacy policy is effective as of 2026-10-07
 
@@ -147,7 +147,7 @@ If you are a resident of California, the California Consumer Privacy Act (CCPA) 
 * **Right to Limit Use of Sensitive Personal Information:** You can limit the use of your sensitive personal information to essential purposes.
 * **Right to Non-Discrimination:** The Service Provider will not discriminate against you for exercising any of your CCPA/CPRA rights.
 
-To exercise any of these rights, please contact the Service Provider at indraminsk@gmail.com. The Service Provider will verify your request using the information you provide and respond within the timeframes required by law. You may designate an authorized agent to make a request on your behalf.
+To exercise any of these rights, please contact the Service Provider at grupesode@gmail.com. The Service Provider will verify your request using the information you provide and respond within the timeframes required by law. You may designate an authorized agent to make a request on your behalf.
 
 ## How do you give your consent?
 
@@ -155,6 +155,6 @@ Where processing is based on consent, you provide that consent by affirmatively 
 
 ## How can you contact the Data Controller?
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at indraminsk@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at grupesode@gmail.com.
 
 To request deletion of your personal data or to exercise any of your rights, contact the Service Provider using the details provided above. The Service Provider will respond within one month of receiving your request, extendable by up to two months where necessary due to the complexity or volume of requests, as permitted by applicable law.
