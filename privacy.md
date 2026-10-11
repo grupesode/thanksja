@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy is applicable to the Thanks Jacques A. :) app for mobile devices, together with any related services operated by Yauhen Kuzmich (collectively, the "Application"). Yauhen Kuzmich is hereinafter referred to as the "Service Provider".
+This privacy policy is applicable to the *Thanks Jacques A.* app for mobile devices, together with any related services operated by Yauhen Kuzmich (collectively, the "Application"). Yauhen Kuzmich is hereinafter referred to as the "Service Provider".
 
 ## Data Controller Information
 
