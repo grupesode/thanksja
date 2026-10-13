@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GRUPESODE — Gaming & Educational Software</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #0a0a0f;
+      font-family: 'Inter', sans-serif;
+      color: #e8e8f0;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Subtle animated gradient background */
+    body::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: 
+        radial-gradient(ellipse 80% 50% at 50% -20%, rgba(99, 102, 241, 0.25), transparent),
+        radial-gradient(ellipse 60% 40% at 80% 100%, rgba(168, 85, 247, 0.15), transparent),
+        radial-gradient(ellipse 50% 30% at 10% 80%, rgba(59, 130, 246, 0.12), transparent);
+      pointer-events: none;
+    }
+
+    .container {
+      text-align: center;
+      position: relative;
+      z-index: 1;
+      padding: 2rem;
+      max-width: 720px;
+    }
+
+    .logo {
+      font-family: 'Orbitron', sans-serif;
+      font-size: clamp(2.8rem, 8vw, 4.5rem);
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      background: linear-gradient(135deg, #a5b4fc 0%, #c4b5fd 40%, #f0abfc 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 1.5rem;
+      text-shadow: 0 0 40px rgba(167, 139, 250, 0.3);
+    }
+
+    .tagline {
+      font-size: clamp(1rem, 2.5vw, 1.25rem);
+      font-weight: 300;
+      letter-spacing: 0.04em;
+      color: #a1a1b5;
+      line-height: 1.7;
+      margin-bottom: 2.5rem;
+    }
+
+    .services {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .service {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 12px;
+      padding: 1.1rem 1.8rem;
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: #d4d4e8;
+      backdrop-filter: blur(8px);
+      transition: all 0.3s ease;
+    }
+
+    .service:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(167, 139, 250, 0.4);
+      transform: translateY(-2px);
+    }
+
+    .service span {
+      display: block;
+      font-size: 0.75rem;
+      font-weight: 400;
+      color: #8b8ba0;
+      margin-top: 0.25rem;
+    }
+
+    footer {
+      position: absolute;
+      bottom: 1.5rem;
+      left: 0;
+      right: 0;
+      text-align: center;
+      font-size: 0.8rem;
+      color: #5a5a70;
+      letter-spacing: 0.05em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="logo">GRUPESODE</h1>
+    <p class="tagline">
+      Crafting immersive gaming experiences<br>
+      and effective educational software
+    </p>
+    <div class="services">
+      <div class="service">
+        Game Development
+        <span>Engaging worlds & mechanics</span>
+      </div>
+      <div class="service">
+        Educational Software
+        <span>Learning that sticks</span>
+      </div>
+    </div>
+  </div>
+  <footer>© 2026 GRUPESODE</footer>
+</body>
+</html>
