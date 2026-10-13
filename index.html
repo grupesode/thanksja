@@ -26,7 +26,6 @@
       position: relative;
     }
 
-    /* Subtle animated gradient background */
     body::before {
       content: '';
       position: absolute;
@@ -73,6 +72,7 @@
       justify-content: center;
       gap: 1.5rem;
       flex-wrap: wrap;
+      margin-bottom: 3rem;
     }
 
     .service {
@@ -99,6 +99,34 @@
       font-weight: 400;
       color: #8b8ba0;
       margin-top: 0.25rem;
+    }
+
+    .contacts {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.85rem;
+    }
+
+    .contact-item {
+      font-size: 0.95rem;
+      color: #b0b0c8;
+      letter-spacing: 0.02em;
+    }
+
+    .contact-item a {
+      color: #c4b5fd;
+      text-decoration: none;
+      transition: color 0.25s ease;
+    }
+
+    .contact-item a:hover {
+      color: #e9d5ff;
+    }
+
+    .contact-label {
+      color: #7a7a94;
+      margin-right: 0.4rem;
     }
 
     footer {
@@ -128,6 +156,17 @@
       <div class="service">
         Educational Software
         <span>Learning that sticks</span>
+      </div>
+    </div>
+
+    <div class="contacts">
+      <div class="contact-item">
+        <span class="contact-label">Gmail —</span>
+        <a href="mailto:indraminsk@gmail.com">grupesode@gmail.com</a>
+      </div>
+      <div class="contact-item">
+        <span class="contact-label">WhatsApp —</span>
+        <a href="https://wa.me/393312670800" target="_blank">+39 331 267 0800</a>
       </div>
     </div>
   </div>
